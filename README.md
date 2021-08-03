@@ -54,7 +54,7 @@ Get lite version in Google Play Store
 	1. Prime factors
 	2. Modulo
 	3. Catalan number
-	4. Fibonacci number
+	4. Fibonacci numbe
 	5. Pi number
 
 ## Note
